@@ -15,7 +15,7 @@
 <h4>Репозитории и ссылки:</h4>
 
 - [Python Практика](https://github.com/AnastasiaBirina/PythonExercises/tree/main) <br> 
-- [Инкрементальная загрузка данных из Postgres В Vertica с помощью Apache Airflow](https://github.com/AnastasiaBirina/PythonExercises/tree/main) <br>
+- Инкрементальная загрузка данных из Postgres В Vertica с помощью Apache Airflow <br>
 - [Инкрементальная загрузка данных в Postgres (в stg из api + dds + cdm) с помощью Apache Airflow](https://github.com/AnastasiaBirina/de-project-sprint-5/tree/main) <br>
 - Реализация Data Lake (PySpark, hdfs) <br>
 - Потоковая обработка данных (Kafka, Spark Structured Streaming, PySpark)
