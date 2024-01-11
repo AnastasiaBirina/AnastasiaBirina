@@ -6,8 +6,8 @@
 - tg: [@wcg_a](https://t.me/wcg_a) 
 
 <h4>Инструменты:</h4>
-- Python <br>
 - SQL (MS SQL, Postgresql) <br>
+- Python <br>
 - Apache Airflow <br>
 - VBA <br>
 - MS Report Builder <br>
