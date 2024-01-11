@@ -1,6 +1,7 @@
 <h3>DWH developer / Data Engineer</h3>
 
 📄 Резюме: [hh.ru](https://hh.ru/resume/93d5129fff0357a3aa0039ed1f474b576d385a) <br>
+
 ✉️ Связаться:  
 - mail: anaastaasiyaaaaaa@gmail.com
 - tg: [@wcg_a](https://t.me/wcg_a) 
