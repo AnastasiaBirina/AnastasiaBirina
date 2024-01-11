@@ -11,6 +11,9 @@
 - Apache Airflow <br>
 - VBA <br>
 - MS Report Builder <br>
+- Kafka <br>
+- Apache Spark <br>
+- Vertica <br> 
 
 <h4>Репозитории и ссылки:</h4>
 
