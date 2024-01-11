@@ -15,9 +15,10 @@
 <h4>Репозитории и ссылки:</h4>
 
 - [Python Практика](https://github.com/AnastasiaBirina/PythonExercises/tree/main) <br> 
-- Инкрементальная загрузка данных из Postgres В Vertica с помощью Apache Airflow <br>
+- Инкрементальная загрузка данных из Postgres в Vertica с помощью Apache Airflow <br>
 - [Инкрементальная загрузка данных в Postgres (в stg из api + dds + cdm) с помощью Apache Airflow](https://github.com/AnastasiaBirina/de-project-sprint-5/tree/main) <br>
-- Реализация Data Lake (PySpark, hdfs) <br>
+- [Реализация Data Lake (PySpark, hdfs) <br>](https://github.com/AnastasiaBirina/DataLakeProjectYP/tree/master)
 - Потоковая обработка данных (Kafka, Spark Structured Streaming, PySpark)
+- [Исследование датасета с данными по отелям (pandas, numpy, matplotlib, seaborn)](https://github.com/AnastasiaBirina/HotelEDA/tree/master) 
 
 
