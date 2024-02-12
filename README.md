@@ -21,7 +21,6 @@
 - [Инкрементальная загрузка данных из Postgres в Vertica с помощью Apache Airflow](https://github.com/AnastasiaBirina/PostgresqlVerticaProject) <br>
 - [Инкрементальная загрузка данных в Postgres (в stg из api + dds + cdm) с помощью Apache Airflow](https://github.com/AnastasiaBirina/de-project-sprint-5/tree/main) <br>
 - [Реализация Data Lake (PySpark, hdfs) <br>](https://github.com/AnastasiaBirina/DataLakeProjectYP/tree/master)
-- Потоковая обработка данных (Kafka, Spark Structured Streaming, PySpark)
 - [Исследование датасета с данными по отелям, прогноз стоимости номеров с помощью ML моделей (pandas, numpy, matplotlib, seaborn, sklearn)](https://github.com/AnastasiaBirina/HotelEDA/tree/master) 
 
 
