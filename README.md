@@ -6,7 +6,7 @@
 - tg: [@wcg_a](https://t.me/wcg_a) 
 
 <b>🛠️ Инструменты:</b>
-- SQL (MS SQL, Postgresql) <br>
+- SQL (MS SQL, PL/SQL Developer, Postgresql) <br>
 - Python <br>
 - Apache Airflow <br>
 - VBA <br>
